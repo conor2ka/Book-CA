@@ -9,5 +9,5 @@ Welcome to the story of the stupid birds
 
 * [Chapter 3 -](Chapter3.html)
 
-* [Chapter 4 - ](Chapter4.html)
+
 
