@@ -1,7 +1,7 @@
 # Story
 
 
-Welcome to the story if the stupid birds
+Welcome to the story of the stupid birds
 
 * [Chapter 1 -](Chapter1.html)
 
