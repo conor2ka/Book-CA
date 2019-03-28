@@ -12,4 +12,4 @@
    “You old folk stay here and entertain yourselves, go and poop on some joggers” – replies Bob in a relieved tone,
    most likely due to that fact that birds cant swim and these old birds don’t look like they got much mileage left in them.
 
-
+* [Homepage ](index.md)
