@@ -15,3 +15,5 @@ Commit 7# Chapter3.html is setup , and half complete.
 
 Commit 8# Chapter3.html is complete , adding release "2.0"
 
+Commit 25# Finished, layout fixed and alternative ending branch added.
+
