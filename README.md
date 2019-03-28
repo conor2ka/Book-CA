@@ -2,6 +2,7 @@
 
 Student Id : B00087430
 
+https://conor2ka.github.io/Book-CA/
 
 First commit : "Testing commit , uploading README.md"
 
@@ -15,3 +16,6 @@ Commit 7# Chapter3.html is setup , and half complete.
 
 Commit 8# Chapter3.html is complete , adding release "2.0"
 
+Commit 25# Finshed , fixed layout and theme
+
+Commit 27# .gitignore added
